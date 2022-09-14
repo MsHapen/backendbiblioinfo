@@ -1,0 +1,41 @@
+{
+  "categorias": [
+    {
+      "nome": "Fantasia",
+      "id": 1
+    },
+    {
+      "nome": "Ficção",
+      "id": 2
+    },
+    {
+      "nome": "Suspense",
+      "id": 3
+    }
+  ],
+  "editoras": [
+    {
+      "nome": "a",
+      "site": "a",
+      "id": 1
+    }
+  ],
+  "livros": [
+    {
+      "titulo": "a",
+      "ISBN": "a",
+      "autor": 1,
+      "categoria": 1,
+      "editora": 1,
+      "quantidade": 1,
+      "preco": 1,
+      "id": 1
+    }
+  ],
+  "autores": [
+    {
+      "nome": "mimama",
+      "id": 1
+    }
+  ]
+}
